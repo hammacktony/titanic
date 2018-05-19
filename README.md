@@ -13,6 +13,6 @@ In the input folder, we have the training data as 'train.csv' and the test data 
 
 In the output folder, there are the individual predictions for each algorithm, summary statistics for each algorithm, and in the prediction folder we have the prediction by the best performing algorithm.
 
-In my analysis, I found that the Random Forest algorithm performed the best.
+In my analysis, I found that the Random Forest algorithm performed the best. My prediction predicted 76% of the survivors correct. I will keep improving in my model for future accuracy.
 
 Here is the source of the challenge: https://www.kaggle.com/c/titanic/
