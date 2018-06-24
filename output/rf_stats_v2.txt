@@ -1,0 +1,8 @@
+Summary Statistics
+-------------------
+This is R2: 0.314047619047619
+This is the accuracy score: 0.8395522388059702
+
+Confusion Matrix:
+[153  15]
+[28 72]
